@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Cosmic Crusader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Cosmic_Crusader_jar</output-path>
+    <root id="archive" name="Cosmic Crusader.jar">
+      <element id="module-output" name="Cosmic Crusader" />
+    </root>
+  </artifact>
+</component>
